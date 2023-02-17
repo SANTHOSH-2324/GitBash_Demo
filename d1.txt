@@ -1,5 +1,0 @@
-First commit in checkout
-Third line for checkout
-after commit
-after after 2 commit
-
