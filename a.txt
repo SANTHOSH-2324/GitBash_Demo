@@ -3,3 +3,4 @@ Second line
 third line
 fif
 six
+after stash
